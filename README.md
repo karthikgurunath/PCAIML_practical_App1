@@ -21,4 +21,19 @@ On the other hand, columns such as coffeeHouse and CarryAway contain only a smal
 
 Since the first part of the project focused on the Bar coupon we also dropped the nan for Bar columns.
 
+## Hypothesis on Bar coupon
+Based on the analysis, approximately 56% of the observed population accepted the bar coupon.
+
+Among those offered with bar coupons, about 41% accepted it. Notably, individuals who visited bars frequently—defined as more than three times per month—were significantly more likely to accept the coupon, with an acceptance rate of approximately 76%.
+
+Age does not appear to significantly influence the decision to accept a bar coupon. Both younger drivers (under 25) and older drivers (over 25) demonstrated similar acceptance patterns and rates.
+
+Drivers working in primary sectors of the economy—such as farming and fishing—were more selective, with an acceptance rate of around 56%, which is comparatively lower than those in other professions. This may suggest that individuals from primary sectors lead lifestyles with fewer social engagements.
+
+Drivers under the age of 30 who were accompanied by a partner but no children were more likely to accept the coupon. This could indicate that younger demographics, particularly those without family responsibilities, tend to have more outgoing social habits.
+
+Economic background and dining preferences also played a role. Individuals with an income below $50,000 and a tendency to frequent less expensive restaurants showed moderate selectivity when deciding whether to accept the coupon.
+
+In conclusion, a driver’s decision to accept a bar coupon appears to be influenced by a combination of economic status, marital and parental status, and frequency of bar visits. These factors offer insights into the social behavior and preferences of different segments of the population.
+
 
