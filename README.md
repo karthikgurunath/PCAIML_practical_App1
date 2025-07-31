@@ -64,7 +64,9 @@ the overall acceptance rate of the coupon is **49.9%**
 ### Hypotheses
 approximately 50% of the individuals who received a coupon for a coffee house chose to use it. The gender of the driver appeared to have no significant influence, as both male and female drivers had a coupon acceptance rate of around 67%. 
 
-However, the frequency of coffee house visits within a month did impact the likelihood of coupon acceptance — those who visited more often were more inclined to use the coupon.
+**Passengers** Passengers who were single, divorced, or widowed were more likely to use the coupon when traveling with friends compared to when traveling alone. Solo travelers had a lower acceptance rate, using the coupon in only about 45% of instances.
+
+**Frequency** However, the frequency of coffee house visits within a month did impact the likelihood of coupon acceptance — those who visited more often were more inclined to use the coupon.
 
 Additionally, 95% of those who accepted the coupon were either single, in a relationship, or married, indicating a possible correlation between relationship status and coupon usage behavior.
 
