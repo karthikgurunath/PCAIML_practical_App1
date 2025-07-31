@@ -23,7 +23,7 @@ Since the first part of the project focused on the Bar coupon we also dropped th
 * Proportion of bar coupons accepted:  ~41%
 * Acceptance rate for those who went to bar 3 or less times is :~ 37%
 * Acceptance rate for those who went to bar more than 3 times is  : ~77%
-* Acceptence rate of driver over 25 yrs : 69
+* Acceptence rate of driver over 25 yrs : ~69%
 * Acceptence rate of driver of all others : 67%
 * Acceptance rate of drivers with passengers other than kids and occupation that is not farming, fishing or Forestry is:  ~71%
 * Acceptance rate of all others :  ~57%
