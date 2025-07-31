@@ -68,4 +68,13 @@ However, the frequency of coffee house visits within a month did impact the like
 
 Additionally, 95% of those who accepted the coupon were either single, in a relationship, or married, indicating a possible correlation between relationship status and coupon usage behavior.
 
+## Next Step and Recommendations
+Based on the above hypotheses, here are the next steps recommendation
+
+* Conduct a more nuanced segmentation to uncover subtle patterns that includes exploring correlation between columns such as time, weather, and destination to better understand how these factors influence coupon acceptance behavior.
+* Develop a model that predicts the coupon acceptance based on other external patterns like location, traffic, time to destination etc
+
+
+
+
 
