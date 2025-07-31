@@ -21,7 +21,7 @@ On the other hand, columns such as coffeeHouse and CarryAway contain only a smal
 
 Since the first part of the project focused on the Bar coupon we also dropped the nan for Bar columns.
 
-## Hypothesis on Bar coupon
+## Hypotheses on Bar coupon
 Based on the analysis, approximately 56% of the observed population accepted the bar coupon.
 
 Among those offered with bar coupons, about 41% accepted it. Notably, individuals who visited bars frequently—defined as more than three times per month—were significantly more likely to accept the coupon, with an acceptance rate of approximately 76%.
