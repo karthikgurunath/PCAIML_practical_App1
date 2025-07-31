@@ -31,7 +31,7 @@ Since the first part of the project focused on the Bar coupon we also dropped th
 * Acceptance rate for conditions_2 : ~72%
 * Acceptance rate for conditions_3 :~77%
 
-## Hypotheses on Bar coupon
+### Hypotheses on Bar coupon
 Based on the analysis, approximately 56% of the observed population accepted the bar coupon.
 
 **BAR Frequency**: Among those offered with bar coupons, about 41% accepted it. Notably, individuals who visited bars frequently—defined as more than three times per month—were significantly more likely to accept the coupon, with an acceptance rate of approximately 76%.
@@ -50,7 +50,22 @@ In conclusion, a driver’s decision to accept a bar coupon appears to be influe
 
 The goal was to determine the characteristics of passengers who accept the Coffee House coupons
 
-### Visualization
+### Visualization and findings.
+the overall acceptance rate of the coupon is **49.9%**
 
+![Alt visualization of coffeehouse acceptance](./images/coffeHouse_acceptance.png)
+
+
+![Alt visualization of coffeehouse maritalStatus](images/coffeHouse_maritalStatus.png)
+
+* acceptance rate of male driver who went to coffee house more than 4 times :  68%
+* acceptance rate of female driver who went to coffee house more than 4 times :  67%
+
+### Hypotheses
+approximately 50% of the individuals who received a coupon for a coffee house chose to use it. The gender of the driver appeared to have no significant influence, as both male and female drivers had a coupon acceptance rate of around 67%. 
+
+However, the frequency of coffee house visits within a month did impact the likelihood of coupon acceptance — those who visited more often were more inclined to use the coupon.
+
+Additionally, 95% of those who accepted the coupon were either single, in a relationship, or married, indicating a possible correlation between relationship status and coupon usage behavior.
 
 
