@@ -4,7 +4,7 @@
 The goal of this project is to distinguish between customers who accepted a driving coupon versus those that did not.
 
 ## Dataset
-You can find the dataset used to make the analysis in this [path](../data/coupons.csv).
+You can find the dataset used to make the analysis in this [path](data/coupons.csv).
 
 ## Tools and libraries
 Python programming language was used to read the dataset. libraries such as panda, seaborn, matplotliib for analysis and visualizing.
