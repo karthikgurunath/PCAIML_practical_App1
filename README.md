@@ -15,11 +15,21 @@ the details of the anaysis, comments and visualization charts can be found in th
 ### Missing data
 A significant portion of the values in the car column are missing, rendering it uninformative for analysis. Therefore, We safely dropped the car column, as it holds little to no significance in the dataset.
 On the other hand, columns such as coffeeHouse and CarryAway contain only a small number of missing values, which are negligible and unlikely to affect the overall integrity or outcomes of the analysis.
+Since the first part of the project focused on the Bar coupon we also dropped the nan for Bar columns.
 
-### Anaysis
+### Anaysis and findings for bar coupon.
 ![Alt visualization of coupon category](./images/coupon_column.png)
 
-Since the first part of the project focused on the Bar coupon we also dropped the nan for Bar columns.
+* Proportion of bar coupons accepted:  ~41%
+* Acceptance rate for those who went to bar 3 or less times is :~ 37%
+* Acceptance rate for those who went to bar more than 3 times is  : ~77%
+* Acceptence rate of driver over 25 yrs : 69
+* Acceptence rate of driver of all others : 67%
+* Acceptance rate of drivers with passengers other than kids and occupation that is not farming, fishing or Forestry is:  ~71%
+* Acceptance rate of all others :  ~57%
+* Acceptance rate for conditions_1 ~72%
+* Acceptance rate for conditions_2 : ~72%
+* Acceptance rate for conditions_3 :~77%
 
 ## Hypotheses on Bar coupon
 Based on the analysis, approximately 56% of the observed population accepted the bar coupon.
