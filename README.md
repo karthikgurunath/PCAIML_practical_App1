@@ -17,7 +17,7 @@ A significant portion of the values in the car column are missing, rendering it 
 On the other hand, columns such as coffeeHouse and CarryAway contain only a small number of missing values, which are negligible and unlikely to affect the overall integrity or outcomes of the analysis.
 
 ### Anaysis
-![Alt visualization of coupon category](images/coupin_column.png)
+![Alt visualization of coupon category](./images/coupin_column.png)
 
 Since the first part of the project focused on the Bar coupon we also dropped the nan for Bar columns.
 
