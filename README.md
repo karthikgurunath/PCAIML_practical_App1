@@ -46,4 +46,11 @@ Based on the analysis, approximately 56% of the observed population accepted the
 
 In conclusion, a driver’s decision to accept a bar coupon appears to be influenced by a combination of economic status, marital and parental status, and frequency of bar visits. These factors offer insights into the social behavior and preferences of different segments of the population.
 
+## Independent Investigation on Coffee House Coupon.
+
+The goal was to determine the characteristics of passengers who accept the Coffee House coupons
+
+### Visualization
+
+
 
